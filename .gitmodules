@@ -1,0 +1,6 @@
+[submodule "my-blog/themes/anatole"]
+	path = my-blog/themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
+[submodule "my-website/themes/anatole"]
+	path = my-website/themes/anatole
+	url = https://github.com/lxndrblz/anatole.git
