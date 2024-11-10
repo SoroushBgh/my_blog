@@ -4,4 +4,8 @@ title = 'My New Hugo Site'
 theme = 'anatole'
 
 
-description = 'A blog about technology, programming, and other stuff.'
+[params]
+title = "I'm Kir khar"
+author = "Soroush Kiri"
+description = "Call me Koni"
+profilePicture = "images/profile.jpg"
