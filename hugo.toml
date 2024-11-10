@@ -5,9 +5,9 @@ theme = 'anatole'
 
 
 [params]
-title = "I'm Kir khar"
-author = "Soroush Kiri"
-description = "Call me Koni"
+title = "  Soroush Bagheri"
+author = "Soroush Bagheri"
+description = "I'm an architect and a developer. I'm interested in the intersection of architecture and technology."
 profilePicture = "images/profile.png"
 
  [[menu.main]]
@@ -42,6 +42,6 @@ url = "https://github.com/SoroushBgh"
 
 [[params.socialIcons]]
 icon = "fab fa-envelope"
-title = "mail"
+title = "e-mail"
 url = "mailto:bghsoroush@gmail.com"
 
