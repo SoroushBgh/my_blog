@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:63264/my_blog/</link>
+    <link>http://localhost:63534/my_blog/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2024 17:29:03 +0100</lastBuildDate><atom:link href="http://localhost:63264/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Nov 2024 17:29:03 +0100</lastBuildDate><atom:link href="http://localhost:63534/my_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:63264/my_blog/contact/</link>
+      <link>http://localhost:63534/my_blog/contact/</link>
       <pubDate>Tue, 12 Nov 2024 17:29:03 +0100</pubDate>
       
-      <guid>http://localhost:63264/my_blog/contact/</guid>
+      <guid>http://localhost:63534/my_blog/contact/</guid>
       
         <description></description>
       
@@ -20,18 +20,16 @@
     
     <item>
       <title>About Me</title>
-      <link>http://localhost:63264/my_blog/about/</link>
+      <link>http://localhost:63534/my_blog/about/</link>
       <pubDate>Tue, 12 Nov 2024 17:26:31 +0100</pubDate>
       
-      <guid>http://localhost:63264/my_blog/about/</guid>
+      <guid>http://localhost:63534/my_blog/about/</guid>
       
         <description>&lt;h1 id=&#34;soroush-bagheri&#34;&gt;Soroush Bagheri&lt;/h1&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:bghsoroush@gmail.com&#34;&gt;bghsoroush@gmail.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Address&lt;/strong&gt;: Roma - 00185&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Phone&lt;/strong&gt;: +39-3792935984&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Address&lt;/strong&gt;: Milan&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Date of Birth&lt;/strong&gt;: May 18, 1992&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Birthplace&lt;/strong&gt;: Tehran, Iran&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/soroushbgh&#34;&gt;linkedin.com/in/soroushbgh&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
@@ -96,10 +94,10 @@
     
     <item>
       <title>First</title>
-      <link>http://localhost:63264/my_blog/post/about/</link>
+      <link>http://localhost:63534/my_blog/post/about/</link>
       <pubDate>Tue, 12 Nov 2024 17:26:31 +0100</pubDate>
       
-      <guid>http://localhost:63264/my_blog/post/about/</guid>
+      <guid>http://localhost:63534/my_blog/post/about/</guid>
       
         <description></description>
       

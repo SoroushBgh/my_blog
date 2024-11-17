@@ -10,10 +10,8 @@ disable_comments: false
 # Soroush Bagheri
 
 - **Email**: [bghsoroush@gmail.com](mailto:bghsoroush@gmail.com)
-- **Address**: Roma - 00185
-- **Phone**: +39-3792935984
+- **Address**: Milan
 - **Date of Birth**: May 18, 1992
-- **Birthplace**: Tehran, Iran
 - **LinkedIn**: [linkedin.com/in/soroushbgh](https://www.linkedin.com/in/soroushbgh)
 
 ## Education
