@@ -2,28 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://localhost:62772/my_blog/</link>
+    <link>http://localhost:63264/my_blog/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 12 Nov 2024 17:29:03 +0100</lastBuildDate><atom:link href="http://localhost:62772/my_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Nov 2024 17:29:03 +0100</lastBuildDate><atom:link href="http://localhost:63264/my_blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://localhost:62772/my_blog/contact/</link>
+      <link>http://localhost:63264/my_blog/contact/</link>
       <pubDate>Tue, 12 Nov 2024 17:29:03 +0100</pubDate>
       
-      <guid>http://localhost:62772/my_blog/contact/</guid>
+      <guid>http://localhost:63264/my_blog/contact/</guid>
       
         <description></description>
       
     </item>
     
     <item>
-      <title>First</title>
-      <link>http://localhost:62772/my_blog/post/first/</link>
+      <title>About Me</title>
+      <link>http://localhost:63264/my_blog/about/</link>
       <pubDate>Tue, 12 Nov 2024 17:26:31 +0100</pubDate>
       
-      <guid>http://localhost:62772/my_blog/post/first/</guid>
+      <guid>http://localhost:63264/my_blog/about/</guid>
+      
+        <description>&lt;h1 id=&#34;soroush-bagheri&#34;&gt;Soroush Bagheri&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:bghsoroush@gmail.com&#34;&gt;bghsoroush@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Address&lt;/strong&gt;: Roma - 00185&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone&lt;/strong&gt;: +39-3792935984&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Date of Birth&lt;/strong&gt;: May 18, 1992&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Birthplace&lt;/strong&gt;: Tehran, Iran&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://www.linkedin.com/in/soroushbgh&#34;&gt;linkedin.com/in/soroushbgh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;education&#34;&gt;Education&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Master&amp;rsquo;s Degree in Landscape Architecture&lt;/strong&gt;, La Sapienza University of Rome (2021-2024, Grade: 110/110 with honors)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Master&amp;rsquo;s Degree in Landscape Architecture&lt;/strong&gt;, Iran University of Science and Technology (2019-2021, Grade: 17.60/20)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bachelor&amp;rsquo;s Degree in Architectural Engineering&lt;/strong&gt;, University of Guilan, Rasht, Iran (2015-2019, Grade: 17.34/20)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;competitions&#34;&gt;Competitions&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;IFLA 2020 International Design Competition&lt;/strong&gt;: Promoting environmental justice through ecosystem services and reconnecting people and nature.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beris Commercial Building Design Competition&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;La Dolce Vita Interior Design Competition&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Iran Science and Technology Gate Design Competition&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Student Competition&lt;/strong&gt;: Rehabilitizing dead urban spaces.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Memorial Design Competition&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;work-experience&#34;&gt;Work Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Junior Architect and Landscape Architect&lt;/strong&gt;, Sbarc Bargone Architetti Associati (Jan 2022 - Jan 2024) - &lt;a href=&#34;http://www.studiobargone.it/&#34;&gt;studio bargone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Architectural and Landscape Design of a Villa&lt;/strong&gt;, Firuzkouh, Tehran Province (Completed in June 2024)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Landscaping of a Villa&lt;/strong&gt;, Vancouver, Westwood, BC, Canada (Completed in Apr 2024)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaboration with Linaria (Non-profit)&lt;/strong&gt;: Design of bio and bibliodiversity (Feb 2022 - Mar 2022)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interior Design of Real Estate Office&lt;/strong&gt;, Tehran (Sep 2021)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rehabilitation of a Villa&lt;/strong&gt;, Firuzkouh, Tehran Province (Apr 2021)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Landscaping of a Public Swimming Pool&lt;/strong&gt; (Feb 2021)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assistant Designer and Landscape Architect&lt;/strong&gt;, Asar Architectural Consultants (2019-2021)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Intern&lt;/strong&gt;, Nextoffice Architectural Design and Research Studio - &lt;a href=&#34;https://nextoffice.ir/&#34;&gt;Nextoffice&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Member of Architectural Competition Team&lt;/strong&gt;, Kashane Sabz Architectural Consultants, Tehran (2017-2018)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Assistant Designer&lt;/strong&gt;, Azhiane Abad Architectural Consultant (2017-2018)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;publications&#34;&gt;Publications&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Magazine of Art and Architecture of the University of Guilan&lt;/strong&gt;: Member of editorial board, architecture section (Jan 2016)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interview with Famous Iranian Architect&lt;/strong&gt;: Mr. Kamal Kamouneh&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Structure Foundations in Architecture&lt;/strong&gt; (Sep 2021)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Supervision of Construction Workshop&lt;/strong&gt; (Currently)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Machine Learning&lt;/strong&gt; (Currently)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Python Programming in Architecture&lt;/strong&gt; (Jan 2024 - Apr 2024)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;skills&#34;&gt;Skills&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Software&lt;/strong&gt;: Rhino, Revit Architecture and Structure, Grasshopper, Python, Dynamo, AutoCAD, Machine Learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;languages&#34;&gt;Languages&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Persian&lt;/strong&gt;: Native Speaker&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Italian&lt;/strong&gt;: Advanced Level (Actively used for 7 years)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;English&lt;/strong&gt;: Advanced Level (Partly used for 1 year)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;French&lt;/strong&gt;: Currently A1 Level (Currently learning, actively used for 2 months)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;athletic-experience&#34;&gt;Athletic Experience&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;First Place&lt;/strong&gt;: Iranian National Championship &amp;lsquo;Open Water&amp;rsquo; (20-25 years-old, Summer 2017)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Second Place&lt;/strong&gt;: Iran&amp;rsquo;s Khazar Cup Swimming &amp;lsquo;Open Water&amp;rsquo; (20-25 years-old, Summer 2017)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Member of University of Guilan Swimming Team&lt;/strong&gt; (2015-2018)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;First, Second, and Third Places&lt;/strong&gt;: Various styles in student swimming competitions for students from Northern Iran (Winter 2018)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Former Member of Tehran Water Polo Team&lt;/strong&gt; (2008-2010)&lt;/li&gt;
+&lt;/ul&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://localhost:63264/my_blog/post/about/</link>
+      <pubDate>Tue, 12 Nov 2024 17:26:31 +0100</pubDate>
+      
+      <guid>http://localhost:63264/my_blog/post/about/</guid>
       
         <description></description>
       
