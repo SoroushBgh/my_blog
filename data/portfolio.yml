@@ -1,0 +1,19 @@
+portfolioitems:
+  # portfolio category
+  - title: Coding Projects
+    description: 'All my coding projects'
+    portfolioitem:
+      - name: Project 1
+        image: ''
+        link:
+        linktext: ''
+        description: ' '
+        tags:
+          - Tag 1
+          - Tag 2
+        status: 'Finished'
+        start: '2020'
+        end: '2021'
+        authors:
+          - lxndrblz
+          - alexanderdavide

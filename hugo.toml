@@ -7,7 +7,8 @@ theme = 'anatole'
 [params]
 title = "  Soroush Bagheri"
 author = "Soroush Bagheri"
-description = "I'm an architect and a developer. I'm interested in the intersection of architecture and technology."
+description = """I'm an architect and a developer.
+ I'm interested in the intersection of architecture and technology."""
 profilePicture = "images/profile.png"
 
  [[menu.main]]
@@ -28,6 +29,39 @@ profilePicture = "images/profile.png"
   identifier = "posts"
   url = "/post/"
 
+[[menu.main]]
+name = "Accomplishments"
+weight = 500
+identifier = "accomplishments"
+url = "/accomplishments/"
+
+[[menu.main]]
+name = "Awards"
+weight = 510
+identifier = "awards"
+url = "/awards/"
+parent = "accomplishments"
+
+[[menu.main]]
+name = "Certifications"
+weight = 520
+identifier = "certifications"
+url = "/certifications/"
+parent = "accomplishments"
+
+[[menu.main]]
+  name = "Portfolio"
+  weight = 300
+  identifier = "portfolio"
+  url = "/portfolio/"
+
+
+ [[menu.main]]
+  name = "Contact"
+  weight = 600
+  identifier = "contact"
+  url = "/contact/"
+
 # ==========================================
 
 [[params.socialIcons]]
@@ -41,7 +75,7 @@ title = "Github"
 url = "https://github.com/SoroushBgh"
 
 [[params.socialIcons]]
-icon = "fab fa-envelope"
+icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:bghsoroush@gmail.com"
 
